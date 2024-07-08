@@ -1,0 +1,53 @@
+           s + v1/v5 + o             v1   |   v5
+simple     s + v2 + o                i       he
+           s + will + v1 + o         we      she
+                                     you     it
+                                     they    name
+
+           s + am/is/are + ving + o
+contineous s + was/were + ving + o
+           s + will be + ving + o
+
+
+
+          s + has/have + v3 + o
+perfect   s + had + v3 + o
+          s + will have + v3 + o
+
+
+
+perfect       s + has/have been + ving + o + since/for time
+contineous    s + had been + ving + o + since/for time
+              s + will have been + ving + o + since/for time
+
+
+since              |            for
+point of time           period of time
+morning                 second
+evening                 minute
+2009                    hour
+monday                  days
+jan                     weeks
+                        months
+                        year
+
+sentenses:
+     >i have been living in pune since 2017
+
+     >i have been living here for 5 years
+     >i had been living here for 5 years
+     >i will have been living here for 5 years
+     >i have been studying for 2 hours
+
+> she plays cricket
+> she played cricket
+> she will play cricket
+> she is playing cricket
+> she was playing cricket
+> she will be playing cricket
+> she has played cricket
+> she had played cricket
+> she will have played cricket by tomarow
+> she have been playing cricket since childhood
+> she had been playing cricket since childhood
+> she will have been playing cricket since childhood

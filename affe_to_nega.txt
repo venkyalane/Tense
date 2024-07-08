@@ -1,0 +1,35 @@
+affirmative                               negative
+type -1
+
+he is a rich man.                     he is not a poor man.
+rani is a good girl.                  rani is not a bad girl.
+
+
+type- 2
+past > did not fail
+present > do/does not fail
+
+ravi saw the taj mahal.              ravi did not fail to see the taj mahal.
+rani plays football.                 rani does not fail to play football.
+
+type-3
+alone/only > none but
+
+only ravi can solve this question.       none but ravi can solve this question.
+rani alone got good marks                none but rani got good marks
+
+type-4
+as soon as > no sooner(do/does/did/had)
+
+as soon as the teacher came,the students stood up.      no sooner did the teacher come than the students stood up.
+as soon as the teacher comes,the students stand up.     no sooner does the teacher come than the students stand up.
+
+type-5
+when/whenever  > never but
+
+it always pours when it rains.              it never rains but pours.
+whenever i get time,i go to my father       i never get time but i go to my father.
+
+type -6
+i always love my mother                 i never hate my mother
+everybody is absent                     nobody is present
